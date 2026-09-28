@@ -1,3 +1,3 @@
 # nep_data
 
-There are three NEP datasets for monolayer graphene, *h*-bn and MoS2.
+There are four NEP datasets for monolayer graphene, *h*-bn , MoS2, and ReS2.
